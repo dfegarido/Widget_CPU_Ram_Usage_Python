@@ -21,7 +21,7 @@ Builder.load_string('''
 <Label>
 	font_size:'15dp'  					#----------CLASS FOR LABEL
 
-<RootWidget>						#------ROOT WIDGET
+<RootWidget>						
 	id:widget		
 	rows:5
 	padding:10
